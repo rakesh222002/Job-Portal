@@ -1,0 +1,16 @@
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_UNSUCCESS = 'REGISTER_UNSUCCESS';
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERR = 'AUTH_ERR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_UNSUCCESS = 'LOGIN_UNSUCCCESS';
+export const LOGOUT = 'LOGOUT';
+export const PROFILE_GET = 'PROFILE_GET';
+export const PROFILE_ERR = 'PROFILE_ERR';
+export const PROFILE_CLEAR = 'PROFILE_CLEAR';
+export const PROFILE_UPDATE = 'PROFILE_UPDATE';
+export const JOB_GET = 'JOB_GET';
+export const JOB_ERR = 'JOB_ERR';
+export const JOB_CLEAR = 'JOB_CLEAR';
